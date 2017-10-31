@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "265712846851",
+    "firebase_url": "https://rideabike-a.firebaseio.com",
+    "project_id": "rideabike-a",
+    "storage_bucket": "rideabike-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265712846851:android:b75a6ea75e90716f",
+        "android_client_info": {
+          "package_name": "tiagov.rideabike1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265712846851-v6h5ufvkjagq42gbhel3llnm3jcb8auc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tiagov.rideabike1",
+            "certificate_hash": "64dbecbb2ccf226113bec4a2f54114ca95ab6d9d"
+          }
+        },
+        {
+          "client_id": "265712846851-ht1n1u4bfabe6d00cm7m24euvmjnbhqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6KFQqBW5ASmGwG4W3wNbP1peT86qyog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265712846851-ht1n1u4bfabe6d00cm7m24euvmjnbhqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

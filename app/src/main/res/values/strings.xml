@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Ride a bike</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Registrar</string>
+    <string name="action_log_in">Entrar</string>
+    <string name="error_invalid_email">Email inválido</string>
+    <string name="error_invalid_password">A senha deve ter 6 digitos</string>
+    <string name="error_incorrect_password">Senha errada</string>
+    <string name="error_field_required">Campo obrigatório</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="dlg_title">Campos em branco</string>
+    <string name="dlg_message">Email ou senha em branco</string>
+    <string name="error_login">Email ou senha incorretos</string>
+
+    <!-- String related to sigin -->
+    <string name="prompt_name">Nome</string>
+    <string name="prompt_address">Endereço</string>
+    <string name="error_name">O nome deve conter mais de 4 caracteres</string>
+    <string name="error_email">Email inválido</string>
+    <string name="error_senha">A senha deve conter 4 caracteres</string>
+    <string name="error_signin_email">Email já cadastrado!</string>
+
+    <!-- Names activitys -->
+    <string name="title_register_activity">Registrar</string>
+    <string name="title_activity_main">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="icon">icon</string>
+    <string name="title_activity_new_order">Novo frete</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="ok">Criar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Permissao necessária.</string>
+    <string name="action_sign_out">Sair</string>
+</resources>
